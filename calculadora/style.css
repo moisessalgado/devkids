@@ -1,0 +1,26 @@
+/* div {
+  border: 1px solid black;
+} */
+
+#calc {
+  width: fit-content;
+  padding: 50px 0px 0px 50px;
+}
+
+#panel {
+  display: block;
+  width: 215px;
+  height: 40px;
+  margin: 0px 0px 5px 00px;
+  padding: 0px 0px 0px 5px;
+}
+
+.display-inline-block {
+  display: inline-block;
+}
+
+.tcl {
+  margin: 5px 5px 5px 5px;
+  width: 40px;
+  height: 40px;
+}
